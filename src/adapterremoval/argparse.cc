@@ -32,6 +32,7 @@
 #include <sys/types.h>
 //#include <sys/ioctl.h> //weizheng
 #include <unistd.h>
+#include <cstdint>
 
 #include "argparse.h"
 #include "debug.h"
